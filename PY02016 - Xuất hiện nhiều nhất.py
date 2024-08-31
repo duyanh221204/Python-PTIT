@@ -12,3 +12,4 @@ for T in range(int(input())):
         for i in range(1, 1000001):
             if k[i] == m:
                 print (i)
+                break
